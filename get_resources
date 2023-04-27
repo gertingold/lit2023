@@ -1,0 +1,3 @@
+wget https://cdn.eso.org/images/screen/eso1907a.jpg
+wget https://download-data.deutschebahn.com/static/datasets/personenzahlen/Passagierzahlen.csv
+wget https://download-data.deutschebahn.com/static/datasets/haltestellen/D_Bahnhof_2017_09.csv
