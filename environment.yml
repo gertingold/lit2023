@@ -1,0 +1,12 @@
+name: lit2023
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - rise
+  - numpy
+  - matplotlib
+  - pandas
+  - jsonschema-with-format-nongpl
+  - webcolors
